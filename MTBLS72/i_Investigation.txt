@@ -1,0 +1,97 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	CSEO	LOINC	OBI	BAO	BTO	MS	NCBITAXON	CHMO	EFO	NCIT	CHEBI	
+Term Source File	http://data.bioontology.org/ontologies/CSEO	http://data.bioontology.org/ontologies/LOINC	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/BAO	http://data.bioontology.org/ontologies/BTO	http://data.bioontology.org/ontologies/MS	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/CHMO	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/NCIT	http://data.bioontology.org/ontologies/CHEBI	http://purl.obolibrary.org/obo/ncit.owl
+Term Source Version	2	9	25	26	22	103	4	16	132	44	99	18.10e
+Term Source Description	Cigarette Smoke Exposure Ontology	Logical Observation Identifier Names and Codes	Ontology for Biomedical Investigations	BioAssay Ontology	BRENDA Tissue and Enzyme Source Ontology	Mass Spectrometry Ontology	National Center for Biotechnology Information (NCBI) Organismal Classification	Chemical Methods Ontology	Experimental Factor Ontology	National Cancer Institute Thesaurus	Chemical Entities of Biological Interest Ontology	NCI Thesaurus OBO Edition
+INVESTIGATION
+Investigation Identifier	MTBLS72
+Investigation Title	Investigation
+Investigation Description	
+Investigation Submission Date	2014-03-06
+Investigation Public Release Date	2014-03-09
+Comment[Created With Configuration]	
+Comment[Last Opened With Configuration]	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	
+Investigation Publication DOI	
+Investigation Publication Author List	
+Investigation Publication Title	
+Investigation Publication Status	
+Investigation Publication Status Term Accession Number	
+Investigation Publication Status Term Source REF	
+INVESTIGATION CONTACTS
+Investigation Person Last Name	
+Investigation Person First Name	
+Investigation Person Mid Initials	
+Investigation Person Email	
+Investigation Person Phone	
+Investigation Person Fax	
+Investigation Person Address	
+Investigation Person Affiliation	
+Investigation Person Roles	
+Investigation Person Roles Term Accession Number	
+Investigation Person Roles Term Source REF	
+STUDY
+Study Identifier	MTBLS72
+Study Title	Plasma Lipidomics Identifies Anticedent Memory Impairment in Older Adults
+Study Description	Alzheimer's disease causes a progressive dementia that currently affects over 35 million individuals worldwide and is expected to affect 115 million by 2050 (ref. 1). There are no cures or disease-modifying therapies, and this may be due to our inability to detect the disease before it has progressed to produce evident memory loss and functional decline. Biomarkers of preclinical disease will be critical to the development of disease-modifying or even preventative therapies. Unfortunately, current biomarkers for early disease, including cerebrospinal fluid tau and amyloid-β levels, structural and functional magnetic resonance imaging and the recent use of brain amyloid imaging or inflammaging, are limited because they are either invasive, time-consuming or expensive. Blood-based biomarkers may be a more attractive option, but none can currently detect preclinical Alzheimer's disease with the required sensitivity and specificity. Herein, we describe our lipidomic approach to detecting preclinical Alzheimer's disease in a group of cognitively normal older adults. We discovered and validated a set of ten lipids from peripheral blood that predicted phenoconversion to either amnestic mild cognitive impairment or Alzheimer's disease within a 2-3 year timeframe with over 90% accuracy. This biomarker panel, reflecting cell membrane integrity, may be sensitive to early neurodegeneration of preclinical Alzheimer's disease.
+Study Submission Date	2014-03-06
+Study Public Release Date	2014-03-09
+Study File Name	s_MTBLS72.txt
+Comment[Revision]	2
+Comment[Revision Date]	2025-09-03
+Comment[Revision Log]	updating data license
+Comment[License]	EMBL-EBI Terms of Use
+STUDY DESIGN DESCRIPTORS
+Study Design Type	Lipidomics	Alzheimer's disease	biomarker	ultra-performance liquid chromatography-mass spectrometry	Biocrates	Targeted metabolites	Untargeted metabolites	tandem mass spectrometry	flow injection analysis	Cognitive Status, Mood and Pain:-:Pt:^Patient:-
+Study Design Type Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C153193	http://www.ebi.ac.uk/efo/EFO_0000249	http://purl.obolibrary.org/obo/CHEBI_59163	http://purl.obolibrary.org/obo/CHMO_0000715				http://purl.obolibrary.org/obo/CHMO_0000575	http://purl.obolibrary.org/obo/MS_1000058	http://purl.bioontology.org/ontology/LNC/52487-6
+Study Design Type Term Source REF	NCIT	EFO	CHEBI	CHMO				CHMO	MS	LOINC
+STUDY PUBLICATIONS
+Study PubMed ID	24608097
+Study Publication DOI	http://dx.doi.org/10.1038/nm.3466
+Study Publication Author List	Mapstone et al 2014
+Study Publication Title	Plasma Lipidomics Identifies Anticedent Memory Impairment in Older Adults
+Study Publication Status	Published
+Study Publication Status Term Accession Number	
+Study Publication Status Term Source REF	
+STUDY FACTORS
+Study Factor Name	Cognitive Status
+Study Factor Type	Group
+Study Factor Type Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C43359
+Study Factor Type Term Source REF	NCIT
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS72_FIA-MS_BIOCRATES_plasma_ad_lipidomics_mass_spectrometry.txt	a_MTBLS72_LC-MS_NEG_plasma_ad_lipidomics_mass_spectrometry.txt	a_MTBLS72_LC-MS_POS_plasma_ad_lipidomics_mass_spectrometry-1.txt
+Study Assay Measurement Type	metabolite profiling	metabolite profiling	metabolite profiling
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366	http://purl.obolibrary.org/obo/OBI_0000366	http://purl.obolibrary.org/obo/OBI_0000366
+Study Assay Measurement Type Term Source REF	OBI	OBI	OBI
+Study Assay Technology Type	mass spectrometry	mass spectrometry	mass spectrometry
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470	http://purl.obolibrary.org/obo/OBI_0000470	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI	OBI	OBI
+Study Assay Technology Platform	Flow injection analysis MS -	Liquid Chromatography MS - negative - reverse phase	Liquid Chromatography MS - positive - reverse phase
+STUDY PROTOCOLS
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type Term Accession Number						
+Study Protocol Type Term Source REF						
+Study Protocol Description	<p>A detailed protocol for sample collection is mentioned in the published paper associated with this study. Briefly blood was collected in EDTA collection tubes, centrifuged and frozen at -80 °C within 4 h of collection.</p>	<p>Briefly, the plasma samples were thawed on ice and vortexed. For metabolite extraction, 25 µL of plasma sample was mixed with 175 µL of extraction buffer (25% acetonitrile in 40% methanol and 35% water) containing internal standards (10 µL of debrisoquine (1 mg/mL), 50 µl of 4-nitrobenzoic acid (1 mg/mL), 27.3 µL of ceramide (1 mg/mL) and 2.5 µL of LPA (lysophosphatidic acid) (4 mg/mL) in 10 mL). The samples were incubated on ice for 10 min and centrifuged at 14,000 rpm at 4 °C for 20 min. The supernatant was transferred to a fresh tube and dried under vacuum. The dried samples were reconstituted in 200 µL of buffer containing 5% methanol, 1% acetonitrile and 94% water. The samples were centrifuged at 13,000 rpm for 20 min at 4 °C to remove fine particulates. The supernatant was transferred to a glass vial for ultraperformance liquid chromatography–electrospray ionization quadrupole time-of-flight mass spectrometry (UPLC-ESI-QTOF-MS) analysis.</p>	<p>Each sample (2 µL) was injected onto a reverse-phase CSH C18 1.7 µM, 2.1 mm x 100 mm column using an Acquity H-class UPLC system (Waters Corporation, USA). The gradient mobile phase comprised of water containing 0.1% formic acid solution (Solvent A), 100% acetonitrile (Solvent B) and 10% acetonitrile in isopropanol containing 0.1% formic acid and 10 mM ammonium formate (Solvent C). Each sample was resolved for 13 min at a flow rate of 0.5 mL/min for 8 min and then 0.4 mL/min from 8 to 13 min. The UPLC gradient consisted of 98% A and 2% B for 0.5 min and then a ramp of curve from 6 to 60% B and 40% A from 0.5 min to 4.0 min, followed by a ramp of curve from 6 to 98% B and 2% A from 4.0 to 8.0 min, a ramp to 5% B and 95% C from 9.0 min to 10.0 min at a flow rate of 0.4 mL/min and finally a ramp to 98% A and 2% B from 11.0 min to 13.0 min. The column eluent was introduced directly into the mass spectrometer by electrospray ionization.</p>	<p><strong>UPLC-ESI-QTOF-MS for untargeted lipidomic profiling:</strong></p><p>Mass spectrometry was performed on a quadrupole time-of-flight (Q-TOF) instrument (Xevo G2 QTOF, Waters Corporation, USA) operating in either negative (ESI-) or positive (ESI+) electrospray ionization mode with a capillary voltage of 3200 V in positive mode and 2800 V in negative mode and a sampling cone voltage of 30 V in both modes. The desolvation gas flow was set to 750 L/h, and the temperature was set to 350 °C. The source temperature was set at 120 °C. Accurate mass was maintained by introduction of a lock-spray interface of leucine-enkephalin (556.2771 [M+H]+ or 554.2615 [M-H]-) at a concentration of 2 pg/µL in 50% aqueous acetonitrile and a rate of 2 µL/min. Data were acquired in centroid MS mode from 50 to 1200 m/z mass range for TOF-MS scanning as single injection per sample, and the batch acquisition was repeated to check experimental reproducibility. For the metabolomics profiling experiments, pooled quality control (QC) samples (generated by taking an equal aliquot of all the samples included in the experiment) were run at the beginning of the sample queue for column conditioning and every 10 injections thereafter to assess inconsistencies that are particularly evident in large batch acquisitions in terms of retention time drifts and variation in ion intensity over time. This approach has been recommended and used as a standard practice by leading metabolomics researchers. A test mix of standard metabolites was run at the beginning and at the end of the run to evaluate instrument performance with respect to sensitivity and mass accuracy. The overlay of the total ion chromatograms of the quality control samples depicted excellent retention time reproducibility. The sample queue was randomized to remove bias.</p><p><br></p><p><strong>Stable isotope dilution-multiple reaction monitoring:</strong></p><p>LC-MS mass spectrometry (LC-MS/MS) is increasingly used in clinical settings for quantitative assay of small molecules and peptides such as vitamin D, serum bile acid and parathyroid hormone under Clinical Laboratory Improvement Amendments environments with high sensitivities and specificities. In this study, targeted metabolomic analysis of plasma samples was performed using the Biocrates Absolute-IDQ P180 (BIOCRATES, Life Science AG, Innsbruck, Austria). This validated targeted assay allows for simultaneous detection and quantification of metabolites in plasma samples (10 µL) in a high-throughput manner. The methods have been described in detail<strong>[1][2]</strong>. The plasma samples were processed as per the instructions by the manufacturer and analyzed on a triple-quadrupole mass spectrometer (Xevo TQ-S, Waters Corporation, USA) operating in the MRM mode. The measurements were made in a 96-well format for a total of 148 samples, and 7 calibration standards and 3 quality control samples were integrated in the kit. Briefly, the flow injection analysis tandem mass spectrometry (MS/MS) method was used to quantify a panel of 144 lipids simultaneously by multiple reaction monitoring. The other metabolites are resolved on the UPLC and quantified using scheduled MRMs. The kit facilitates absolute quantitation of 21 amino acids, hexose, carnitine, 39 acylcarnitines, 15 sphingomyelins, 90 phosphatidylcholines and 19 biogenic amines.</p><p><br></p><p><strong>Refs:</strong></p><p><strong>[1]</strong> Illig T, Gieger C, Zhai G, Römisch-Margl W, Wang-Sattler R, Prehn C, Altmaier E, Kastenmüller G, Kato BS, Mewes HW, Meitinger T, de Angelis MH, Kronenberg F, Soranzo N, Wichmann HE, Spector TD, Adamski J, Suhre K. A genome-wide perspective of genetic variation in human metabolism. Nat Genet. 2010 Feb;42(2):137-41. doi:10.1038/ng.507. Epub 2009 Dec 27. PMID:20037589.</p><p><strong>[2]</strong> Römisch-Margl WPC, Bogumil R, Röhring C, Suhre K. Procedure for tissue sample preparation and metabolite extraction for high-throughput targeted metabolomics. Metabolomics. 2011;7:1-14. PMID:21461033.</p>	The data were preprocess using XCMS (Scripps Institute). The m/z features of metabolites were normalized with log transformation that stabilized the variance, followed by a quantile normalization to make the empirical distribution of intensities the same across samples.	<p>Metabolite identification and annotation was done using metabosearch tool which integrates several databases and was developed by Habtom Ressom's group at GU.</p><p><br></p><p><strong>UPLC-ESI-QTOF-MS for untargeted lipidomic profiling:</strong></p><p>The metabolites were selected among all those known to be identifiable using a ROC regularized learning technique based on the LASSO penalty as implemented with the R package 'glmnet'<strong>[1]</strong>, which uses cyclical coordinate descent in a path-wise fashion. We first obtained the regularization path over a grid of values for the tuning parameter, lambda, through tenfold cross-validation. The optimal value of the tuning parameter lambda, which was obtained by the cross-validation procedure, was then used to fit the model. All the features with nonzero coefficients were retained for subsequent analysis. This technique is known to reduce overfitting and achieve similar prediction accuracy as the sparse supporting vector machine. The classification performance of the selected metabolites was assessed using area under the ROC curve (AUC). The ROC can be understood as a plot of the probability of classifying correctly the positive samples against the rate of incorrectly classifying true negative samples. So the AUC measure of an ROC plot is a measure of predictive accuracy. To maintain rigor of independent validation, the simple logistic model with the ten-metabolite panel was used, although a more refined model can yield greater AUC. The validation phase was performed in a blinded fashion such that the sample group was not known by the statistical team.</p><p><br></p><p><strong>Stable isotope dilution-multiple reaction monitoring:</strong></p><p>Data analysis was performed using the MetIQ software (Biocrates), and the statistical analyses included the nonparametric Kruskal-Wallis test with follow-up Mann-Whitney U-tests for pairwise comparisons using the STAT pack module v3 (Biocrates). Significance was adjusted for multiple comparisons using Bonferroni's method (P &lt; 0.025). The abundance is calculated from area under the curve by normalizing to the respective isotope labeled internal standard. The concentration is expressed as nmol/L. Human EDTA plasma samples spiked with standard metabolites were used as quality control samples to assess reproducibility of the assay. The mean of the coefficient of variation (CV) for the 180 metabolites was 0.08, and 95% of the metabolites had a CV of &lt;0.15.</p><p><br></p><p><strong>Ref:</strong></p><p><strong>[1]</strong> Friedman J, Hastie T, Tibshirani R. Regularization Paths for Generalized Linear Models via Coordinate Descent. J Stat Softw. 2010;33(1):1-22. PMID:20808728.</p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Column type;Column model	Scan polarity;Scan m/z range;Instrument;Mass analyzer;Ion source		
+Study Protocol Parameters Name Term Accession Number		;	;;	;;;;		
+Study Protocol Parameters Name Term Source REF		;	;;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Federoff
+Study Person First Name	Howard
+Study Person Mid Initials	J
+Study Person Email	hjf8@georgetown.edu
+Study Person Phone	202-687-4600
+Study Person Fax	202-687-1110
+Study Person Address	120 Building D 4000 Resersvoir Road, NW Washington, DC 20007
+Study Person Affiliation	Georgetown University
+Study Person Roles	Senior Author
+Study Person Roles Term Accession Number	
+Study Person Roles Term Source REF	
