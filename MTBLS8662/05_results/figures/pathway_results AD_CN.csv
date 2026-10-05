@@ -1,0 +1,16 @@
+"","Total","Expected","Hits","Raw p","-log10(p)","Holm adjust","FDR","Impact"
+"Histidine metabolism",16,0.15075,3,0.00035257,3.4528,0.028206,0.028206,0.32786
+"Caffeine metabolism",10,0.094221,2,0.0035714,2.4472,0.28214,0.14286,0.69231
+"beta-Alanine metabolism",21,0.19786,2,0.015697,1.8042,1,0.41859,0.05597
+"Tyrosine metabolism",42,0.39573,2,0.057425,1.2409,1,0.93566,0.13548
+"Thiamine metabolism",7,0.065955,1,0.064237,1.1922,1,0.93566,0
+"Sulfur metabolism",8,0.075377,1,0.073093,1.1361,1,0.93566,0.12766
+"Vitamin B6 metabolism",9,0.084799,1,0.081871,1.0869,1,0.93566,0.2549
+"Arginine biosynthesis",14,0.13191,1,0.12461,0.90446,1,1,0.12234
+"Fructose and mannose metabolism",20,0.18844,1,0.17344,0.76086,1,1,0.15735
+"Alanine, aspartate and glutamate metabolism",28,0.26382,1,0.2346,0.62967,1,1,0.02163
+"Lysine degradation",30,0.28266,1,0.24921,0.60343,1,1,0.11247
+"Tryptophan metabolism",41,0.38631,1,0.32505,0.48804,1,1,0.13094
+"Amino sugar and nucleotide sugar metabolism",42,0.39573,1,0.33158,0.47941,1,1,0.08367
+"Fatty acid biosynthesis",47,0.44284,1,0.36334,0.43968,1,1,0
+"Purine metabolism",70,0.65955,1,0.49214,0.30792,1,1,0.00013
